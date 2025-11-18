@@ -109,7 +109,7 @@ anchor.group.add(glasses.scene);
 ## OUTPUT:
 <img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/ac5add4e-946b-4a7c-b1e2-91ce0e1af820" />
 
-![WhatsApp Image 2025-11-18 at 5 18 40 PM](https://github.com/user-attachments/assets/86b39bc1-125e-486d-be7e-8bd565db2286)
+![MASK TRACKING](https://github.com/user-attachments/assets/cd70a237-a617-4b68-9d16-b6b1962d88d5)
 
 
 ## RESULT:
